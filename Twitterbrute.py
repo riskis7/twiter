@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 
-# BENGKULU CYBER TEAM
-# bisa digunakan di termux
-# code by Riskis7
-# Twitter Brute Force v.0.1
-# 27/7/2018
 #-*- coding:utf-8 -*-
 import mechanize
 import argparse
